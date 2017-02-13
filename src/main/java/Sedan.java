@@ -6,7 +6,5 @@ public class Sedan extends Car {
 
 	}
 
-	public void self() {
-		System.out.println("Is color blue ?");
-	}
+	
 }
